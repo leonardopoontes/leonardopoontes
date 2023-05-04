@@ -1,6 +1,6 @@
 ### Olá, eu sou o Leonardo 👋
 
-Meu portfolio de projetos: 
+Meu portfólio de projetos: 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://google.com) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardopoontes&show_icons=true&theme=dracula)
@@ -23,4 +23,4 @@ Meu portfolio de projetos:
 
 ## Redes sociais:
 - [Linkedin](https://www.linkedin.com/in/leonardo-pontes-morais-406b101a2/)
-- [Porfolio](https://leonardo-portfolio-mauve.vercel.app)
+- [Portfólio](https://leonardo-portfolio-mauve.vercel.app)
