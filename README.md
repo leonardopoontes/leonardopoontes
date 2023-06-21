@@ -1,4 +1,4 @@
-### Olá, eu sou o Leonardo 👋
+### Olá, eu sou Leonardo 👋
 
 Meu portfólio de projetos: 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://google.com) 
